@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{1. Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{2. Data}{}% 2
+\BOOKMARK [1][-]{section.3}{3. EDA}{}% 3
+\BOOKMARK [1][-]{section.4}{4. LASSO}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{4.1. Preprocessing}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{4.2. Model Selection: CV, ES-CV, AIC, BIC, AICc}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{5. Correlation between voxels}{}% 7
+\BOOKMARK [1][-]{section.6}{6. Ridge, mixture Ridge-Lasso, Random Forest}{}% 8
+\BOOKMARK [1][-]{section.7}{7. Stability}{}% 9
+\BOOKMARK [1][-]{section.8}{8. Feature Interpretation}{}% 10
+\BOOKMARK [1][-]{section.9}{9. Conclusion}{}% 11
+\BOOKMARK [1][-]{section.10}{10. Appendix 1}{}% 12
