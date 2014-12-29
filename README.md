@@ -45,7 +45,7 @@ The graphs are aligned so one can compare the lambda chosen by CV methods with t
 
 ![](/figures/cv_lasso1.pdf)
 
-![](/figures/cv_lasso5.pdf})
+![](/figures/cv_lasso5.pdf)
 
 
 For the entire lab result details look in [writeup](Writeup.pdf)
