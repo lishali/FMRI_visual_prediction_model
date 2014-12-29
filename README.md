@@ -15,7 +15,9 @@ EDA
 ============================
 
 ![](/figures/voxel_plot.png)
+
 ![](/figures/response_density_EDA.pdf)
+
 ![](/figures/intensity_density_EDA.pdf)
 
 
@@ -38,10 +40,11 @@ The following plots of full of information.  Cross validation was performed on 8
 The graphs are aligned so one can compare the lambda chosen by CV methods with the AIC, BIC and AICc plot.  Though the latter three estimators achieved minimums for the largest lambda in the domain of lambdas considered, there is an obvious point at which their derivative decreases dramatically, to a almost flat slope.  This was the point that almost always corresponded to the lambdas chosen by CV methods within a small degree of error, hence providing nice support for the choices made by CV methods.  Finally, we can read of the degrees of freedom of the LASSO model for each voxel on the top of the x-axis, which consistently chose around 90 parameters at Lambda.min. Voxel 10, 16 and 20 were outliers.  
 
 ![](/figures/Voxel_1_AIC.pdf)
+
 ![](/figures/Voxel_5_AIC.pdf)
-  \caption{Voxel 5}
-\endminipage
+
 ![](/figures/cv_lasso1.pdf)
+
 ![](/figures/cv_lasso5.pdf})
 
 
